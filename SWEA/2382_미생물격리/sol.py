@@ -74,8 +74,27 @@ for i in range(M):
 
 
     # clus를 순회하면서 같은 좌표를 가지고 있으면 합치고 방향은 가장 큰놈으로
-    clus.sort(key=lambda x: (-x[2]))
+    clus.sort(key=lambda x: (-x[2]))  # 미생물 수가 많은 순으로 정렬
+
+    merged = []
+    used = [False] * len(clus)
+    
     for j in range(len(clus)):
-        for k in range(j+1, len(clus)):
-            if clus[j]
-    print(clus)
+        if used[j] or clus[j][2] == 0:  # 이미 합쳐졌거나 미생물이 0이면 스킵
+            continue
+        
+        # 현재 군집의 정보
+        row, col, count, direction = clus[j]
+        
+        # 같은 좌표에 있는 다른 군집들을 찾아서 합치기
+        for k in range(j + 1, len(clus)):
+            if not used[k] and clus[k][0] == row and clus[k][1] == col:
+                count += clus[k][2]  # 미생물 수 합치기
+                used[k] = True  # 합쳐진 군집 표시
+        
+        # 미생물이 0보다 크면 merged에 추가
+        if count > 0:
+            merged.append([row, col, count, direction])
+    
+    clus = merged  # 합쳐진 결과로 업데이트
+
