@@ -29,3 +29,13 @@
 | 2382 | 미생물 격리 | [NONE](SWEA/2382_미생물격리) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)
 | 4012 | 요리사 | [NONE](SWEA/4012_요리사) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
 | 4014 | 활주로 건설 | [NONE](SWEA/4014_활주로건설) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
+
+<details><summary>유형</summary>스택 & 큐</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 1220 | Magnetic | [D3](SWEA/1220_Magnetic) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)
+| 1222 | 계산기1 | [D4](SWEA/1222_계산기1) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14mbSaAEwCFAYD)
+| 1225 | 암호생성기 | [D3](SWEA/1225_암호생성기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD)
+| 2477 | 차량정비소 | [NONE](SWEA/2477_차량정비소) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)
+| 5432 | 쇠막대기 자르기 | [D4](SWEA/5432_쇠막대기자르기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm)
