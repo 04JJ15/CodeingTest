@@ -39,3 +39,30 @@
 | 1225 | 암호생성기 | [D3](SWEA/1225_암호생성기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD)
 | 2477 | 차량정비소 | [NONE](SWEA/2477_차량정비소) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)
 | 5432 | 쇠막대기 자르기 | [D4](SWEA/5432_쇠막대기자르기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm)
+
+<details><summary>유형</summary>트리 & 그래프</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 1231 | 중위순회 | [D4](SWEA/1231_중위순회_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD)
+| 1232 | 사칙연산 | [D4](SWEA/1232_사칙연산_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD)
+| 5176 | 이진탐색 | [D2](SWEA/5176_이진탐색_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa0jjq4ggDFAVT)
+| 5178 | 노드의 합 | [D3](SWEA/5178_노드의합_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa2VIq4mYDFAVT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
