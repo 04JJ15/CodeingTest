@@ -49,7 +49,14 @@
 | 5176 | 이진탐색 | [D2](SWEA/5176_이진탐색_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa0jjq4ggDFAVT)
 | 5178 | 노드의 합 | [D3](SWEA/5178_노드의합_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa2VIq4mYDFAVT)
 
+<details><summary>유형</summary>DFS</details>
 
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 1244 | 최대 상금 | [D3](SWEA/1244_최대상금_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
+| 2115 | 벌꿀 채취 | [NONE](SWEA/2115_벌꿀채취) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)
+| 2819 | 격자판의 숫자 이어붙이기 | [D4](SWEA/2819_격자판의숫자이어붙이기_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)
+| 4008 | 숫자 만들기 | [NONE](SWEA/4008_숫자만들기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
 
 
 
