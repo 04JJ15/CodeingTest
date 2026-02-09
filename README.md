@@ -58,7 +58,13 @@
 | 2819 | 격자판의 숫자 이어붙이기 | [D4](SWEA/2819_격자판의숫자이어붙이기_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)
 | 4008 | 숫자 만들기 | [NONE](SWEA/4008_숫자만들기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
 
+<details><summary>유형</summary>BFS</details>
 
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 1227 | 미로2 | [D4](SWEA/1227_미로2_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD)
+| 1249| 보급로 | [D4](SWEA/1249_보급로_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+| 1953 | 탈주범 검거 | [NONE](SWEA/1953_탈주범검거) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)
 
 
 
