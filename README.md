@@ -66,7 +66,15 @@
 | 1249| 보급로 | [D4](SWEA/1249_보급로_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
 | 1953 | 탈주범 검거 | [NONE](SWEA/1953_탈주범검거) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)
 
+<details><summary>유형</summary>힙 & 백트레킹</details>
 
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 2817 | 부분 수열의 합 | [D3](SWEA/2817_부분수열의합_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB)
+| 2930 | 힙 | [D3](SWEA/2930_힙_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV-Tj7ya3jYDFAXr)
+| 5215 | 햄버거 다이어트 | [D3](SWEA/5215_햄버거다이어트_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
+| 5189 | 전자 카트 | [D3](SWEA/5189_전자카트_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTtmmdKeD8DFAVT)
+| 9280 | 진용이네 주차 타워 | [D3](SWEA/9280_진용이네주차타워_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j74FacD0DFAUY)
 
 
 
