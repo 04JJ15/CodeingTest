@@ -76,7 +76,16 @@
 | 5189 | 전자 카트 | [D3](SWEA/5189_전자카트_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTtmmdKeD8DFAVT)
 | 9280 | 진용이네 주차 타워 | [D3](SWEA/9280_진용이네주차타워_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j74FacD0DFAUY)
 
+<details><summary>유형</summary>그리드</details>
 
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 2117 | 홈 방범 서비스 | [NONE](SWEA/2117_홈방범서비스) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+| 5201 | 컨테이너 운반 | [D3](SWEA/5201_컨테이너운반_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-JKa6caEDFAVT)
+| 5202 | 화물도크 | [D3](SWEA/5202_화물도크_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-K6DaceYDFAVT)
+| 5203 | 베이비진 게임 | [D3](SWEA/5203_베이비진게임_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-MRHKchIDFAVT)
+| 5648 | 원자소멸 시뮬레이션 | [NONE](SWEA/5648_원자소멸시뮬레이션) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
+| 20728 | 공평한 분배2 | [D3](20728_공평한분배2_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AY6cg0MKeVkDFAXt)
 
 
 
