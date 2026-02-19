@@ -103,6 +103,11 @@
 | 3124 | 최소 스패닝 트리 | [D4](SWEA/3124_최소스패닝트리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 | 5249 | 최소신장트리 | [D4](SWEA/5249_최소신장트리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS26fKIucDFAVT)
 
+<details><summary>유형</summary>최단경로</details>
 
-
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 1263 | 사람 네트워크2 | [D6](SWEA/1263_사람네트워크2_D6) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN)
+| 5251 | 최소 이동거리 | [D4](SWEA/5251_최소이동거리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS6BAaI4oDFAVT)
+| 5263 | 그래프 최소 비용 | [D4](SWEA/5263_그래프최소비용_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTcNKKLV0DFAVT)
 
