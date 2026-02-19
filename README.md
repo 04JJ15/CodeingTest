@@ -111,3 +111,12 @@
 | 5251 | 최소 이동거리 | [D4](SWEA/5251_최소이동거리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS6BAaI4oDFAVT)
 | 5263 | 그래프 최소 비용 | [D4](SWEA/5263_그래프최소비용_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTcNKKLV0DFAVT)
 
+---
+
+## ssA형
+
+| 문제명 | 난이도(풀이) |
+| :--- | :---: |
+| 졸업 | [풀이](ssA형/졸업)
+| 헌터 | [플이](ssA형/헌터)
+
