@@ -111,6 +111,16 @@
 | 5251 | 최소 이동거리 | [D4](SWEA/5251_최소이동거리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS6BAaI4oDFAVT)
 | 5263 | 그래프 최소 비용 | [D4](SWEA/5263_그래프최소비용_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTcNKKLV0DFAVT)
 
+<details><summary>유형</summary>DP</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 3307 | 최장 증가 부분 수열 | [D3](SWEA/3307_최장증가부분수열_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)
+| 5255 | 타일 붙이기 | [D3](SWEA/5255_타일붙이기_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTSgfqKtADFAVT)
+| 5256 | 이항계수 | [D3](SWEA/5256_이항계수_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTTIb6KvkDFAVT)
+| 5258 | 해피박스 | [D3](SWEA/5258_해피박스_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTUxz6K50DFAVT)
+| 5260 | 부분 집합의 합 | [D4](SWEA/5260_부분집합의합_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTWmcqLDcDFAVT)
+
 ---
 
 ## ssA형
@@ -120,3 +130,4 @@
 | 졸업 | [풀이](ssA형/졸업)
 | 헌터 | [플이](ssA형/헌터)
 
+---
