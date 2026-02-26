@@ -121,6 +121,13 @@
 | 5258 | 해피박스 | [D3](SWEA/5258_해피박스_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTUxz6K50DFAVT)
 | 5260 | 부분 집합의 합 | [D4](SWEA/5260_부분집합의합_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTWmcqLDcDFAVT)
 
+<details><summary>유형</summary>EXTRA</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 5656 | 벽돌 깨기 | [NONE](SWEA/5656_벽돌깨기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+| 5658 | 보물상자 비밀번호 | [NONE](SWEA/5658_보물상자비밀번호) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+
 ---
 
 ## ssA형
