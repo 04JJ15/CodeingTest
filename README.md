@@ -128,6 +128,14 @@
 | 5656 | 벽돌 깨기 | [NONE](SWEA/5656_벽돌깨기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
 | 5658 | 보물상자 비밀번호 | [NONE](SWEA/5658_보물상자비밀번호) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
 
+<details><summary>유형</summary>정렬</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 4843 | 특별한 정렬 | [D3](SWEA/4843_특별한정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLeicaqHcDFAVT)
+| 5204 | 병합 정렬 | [D3](SWEA/5204_병합정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-Pu3acjYDFAVT)
+| 5205 | 퀵 정렬 | [D3](SWEA/5205_퀵정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-VprKcqwDFAVT)
+
 ---
 
 ## ssA형
