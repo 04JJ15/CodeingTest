@@ -1,8 +1,12 @@
 # CodeingTest
 
-## SWEA
+<details>
+<summary><h2>SWEA</h2></summary>
 
-<details><summary>유형</summary>단순구현</details>
+<details><summary>유형1</summary>단순구현</details>
+
+<details>
+<summary>문제</summary>
 
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
@@ -13,7 +17,12 @@
 | 4834 | 숫자 카드 | [D2](SWEA/4834_숫자카드_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLVouKpUgDFAVT)
 | 9490 | 풍선팡 | [D2](SWEA/9490_풍선팡_D2) | [SWEA](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXAerAPaVXMDFARP)
 
-<details><summary>유형</summary>재귀</details>
+</details>
+
+<details><summary>유형2</summary>재귀</details>
+
+<details>
+<summary>문제</summary>
 
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
@@ -21,8 +30,13 @@
 | 2805 | 농작물 수확하기 | [D3](SWEA/2805_농작물%20수확하기_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 | 6808 | 규영이와 인영이의 카드게임 | [D3](SWEA/26025_규영이와%20인영이의%20카드게임_D1) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
 
-<details><summary>유형</summary>순열</details>
+</details>
 
+<details><summary>유형3</summary>순열</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1240 | 단순 2진 암호코드 | [D3](SWEA/1240_단순2진암호코드_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)
@@ -30,8 +44,13 @@
 | 4012 | 요리사 | [NONE](SWEA/4012_요리사) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
 | 4014 | 활주로 건설 | [NONE](SWEA/4014_활주로건설) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
 
-<details><summary>유형</summary>스택 & 큐</details>
+</details>
 
+<details><summary>유형4</summary>스택 & 큐</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1220 | Magnetic | [D3](SWEA/1220_Magnetic) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)
@@ -40,8 +59,13 @@
 | 2477 | 차량정비소 | [NONE](SWEA/2477_차량정비소) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy)
 | 5432 | 쇠막대기 자르기 | [D4](SWEA/5432_쇠막대기자르기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm)
 
-<details><summary>유형</summary>트리 & 그래프</details>
+</details>
 
+<details><summary>유형5</summary>트리 & 그래프</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1231 | 중위순회 | [D4](SWEA/1231_중위순회_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD)
@@ -49,8 +73,13 @@
 | 5176 | 이진탐색 | [D2](SWEA/5176_이진탐색_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa0jjq4ggDFAVT)
 | 5178 | 노드의 합 | [D3](SWEA/5178_노드의합_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTa2VIq4mYDFAVT)
 
-<details><summary>유형</summary>DFS</details>
+</details>
 
+<details><summary>유형6</summary>DFS</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1244 | 최대 상금 | [D3](SWEA/1244_최대상금_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
@@ -58,15 +87,25 @@
 | 2819 | 격자판의 숫자 이어붙이기 | [D4](SWEA/2819_격자판의숫자이어붙이기_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)
 | 4008 | 숫자 만들기 | [NONE](SWEA/4008_숫자만들기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
 
-<details><summary>유형</summary>BFS</details>
+</details>
 
+<details><summary>유형7</summary>BFS</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1227 | 미로2 | [D4](SWEA/1227_미로2_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD)
 | 1249| 보급로 | [D4](SWEA/1249_보급로_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
 | 1953 | 탈주범 검거 | [NONE](SWEA/1953_탈주범검거) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)
 
-<details><summary>유형</summary>힙 & 백트레킹</details>
+</details>
+
+<details><summary>유형8</summary>힙 & 백트레킹</details>
+
+<details>
+<summary>문제</summary>
 
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
@@ -76,8 +115,13 @@
 | 5189 | 전자 카트 | [D3](SWEA/5189_전자카트_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTtmmdKeD8DFAVT)
 | 9280 | 진용이네 주차 타워 | [D3](SWEA/9280_진용이네주차타워_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW9j74FacD0DFAUY)
 
-<details><summary>유형</summary>그리드</details>
+</details>
 
+<details><summary>유형9</summary>그리드</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 2117 | 홈 방범 서비스 | [NONE](SWEA/2117_홈방범서비스) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
@@ -87,32 +131,52 @@
 | 5648 | 원자소멸 시뮬레이션 | [NONE](SWEA/5648_원자소멸시뮬레이션) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo)
 | 20728 | 공평한 분배2 | [D3](20728_공평한분배2_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AY6cg0MKeVkDFAXt)
 
-<details><summary>유형</summary>상호베타집합</details>
+</details>
 
+<details><summary>유형10</summary>상호베타집합</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 3289 | 서로소 집합 | [D4](SWEA/3289_서로소집합_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
 | 5248 | 그룹 나누기 | [D3](SWEA/5248_그룹나누기_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS2OVaIpgDFAVT)
 | 7465 | 창용마을 무리의 개수 | [D4](SWEA/7465_창용마을무리의개수_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU)
 
-<details><summary>유형</summary>최소신장트리</details>
+</details>
 
+<details><summary>유형11</summary>최소신장트리</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1251 | 하나로 | [D4](SWEA/1251_하나로_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)
 | 3124 | 최소 스패닝 트리 | [D4](SWEA/3124_최소스패닝트리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 | 5249 | 최소신장트리 | [D4](SWEA/5249_최소신장트리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS26fKIucDFAVT)
 
-<details><summary>유형</summary>최단경로</details>
+</details>
 
+<details><summary>유형12</summary>최단경로</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 1263 | 사람 네트워크2 | [D6](SWEA/1263_사람네트워크2_D6) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18P2B6Iu8CFAZN)
 | 5251 | 최소 이동거리 | [D4](SWEA/5251_최소이동거리_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUS6BAaI4oDFAVT)
 | 5263 | 그래프 최소 비용 | [D4](SWEA/5263_그래프최소비용_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTcNKKLV0DFAVT)
 
-<details><summary>유형</summary>DP</details>
+</details>
 
+<details><summary>유형13</summary>DP</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 3307 | 최장 증가 부분 수열 | [D3](SWEA/3307_최장증가부분수열_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)
@@ -121,28 +185,47 @@
 | 5258 | 해피박스 | [D3](SWEA/5258_해피박스_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTUxz6K50DFAVT)
 | 5260 | 부분 집합의 합 | [D4](SWEA/5260_부분집합의합_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWUTWmcqLDcDFAVT)
 
-<details><summary>유형</summary>EXTRA</details>
+</details>
 
-| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
-| :---: | :--- | :---: | :---: |
-| 5656 | 벽돌 깨기 | [NONE](SWEA/5656_벽돌깨기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
-| 5658 | 보물상자 비밀번호 | [NONE](SWEA/5658_보물상자비밀번호) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+<details><summary>유형14</summary>정렬</details>
 
-<details><summary>유형</summary>정렬</details>
-
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 4843 | 특별한 정렬 | [D3](SWEA/4843_특별한정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTLeicaqHcDFAVT)
 | 5204 | 병합 정렬 | [D3](SWEA/5204_병합정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-Pu3acjYDFAVT)
 | 5205 | 퀵 정렬 | [D3](SWEA/5205_퀵정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-VprKcqwDFAVT)
 
-<details><summary>유형</summary>문자열 매칭</details>
+</details>
 
+<details><summary>유형15</summary>문자열 매칭</details>
+
+<details>
+<summary>문제</summary>
+  
 | 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
 | :---: | :--- | :---: | :---: |
 | 3143 | 가장 빠른 문자열 타이핑 | [D4](SWEA/3143_가장빠른문자열타이핑_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS)
 | 4864 | 문자열 비교 | [D2](SWEA/4864_문자열비교_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTQRytKQJ0DFAVT)
 | 4865 | 글자 수 | [D2](SWEA/4865_글자수_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTQSs6qQL0DFAVT)
+
+</details>
+
+<details><summary>유형</summary>EXTRA</details>
+
+<details>
+<summary>문제</summary>
+  
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 5656 | 벽돌 깨기 | [NONE](SWEA/5656_벽돌깨기) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+| 5658 | 보물상자 비밀번호 | [NONE](SWEA/5658_보물상자비밀번호) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+
+</details>
+
+</details>
 
 ---
 
