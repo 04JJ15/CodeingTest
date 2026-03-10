@@ -136,6 +136,14 @@
 | 5204 | 병합 정렬 | [D3](SWEA/5204_병합정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-Pu3acjYDFAVT)
 | 5205 | 퀵 정렬 | [D3](SWEA/5205_퀵정렬_D3) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-VprKcqwDFAVT)
 
+<details><summary>유형</summary>문자열 매칭</details>
+
+| 문제 번호 | 문제명 | 난이도(풀이) | 문제링크 |
+| :---: | :--- | :---: | :---: |
+| 3143 | 가장 빠른 문자열 타이핑 | [D4](SWEA/3143_가장빠른문자열타이핑_D4) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_65wkqsb4DFAWS)
+| 4864 | 문자열 비교 | [D2](SWEA/4864_문자열비교_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTQRytKQJ0DFAVT)
+| 4865 | 글자 수 | [D2](SWEA/4865_글자수_D2) | [SWEA](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWTQSs6qQL0DFAVT)
+
 ---
 
 ## ssA형
